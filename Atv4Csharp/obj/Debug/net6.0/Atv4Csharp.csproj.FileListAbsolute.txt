@@ -1,0 +1,15 @@
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\bin\Debug\net6.0\Atv4Csharp.exe
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\bin\Debug\net6.0\Atv4Csharp.deps.json
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\bin\Debug\net6.0\Atv4Csharp.runtimeconfig.json
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\bin\Debug\net6.0\Atv4Csharp.dll
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\bin\Debug\net6.0\Atv4Csharp.pdb
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.csproj.AssemblyReference.cache
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.AssemblyInfoInputs.cache
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.AssemblyInfo.cs
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.dll
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\refint\Atv4Csharp.dll
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.pdb
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\Atv4Csharp.genruntimeconfig.cache
+C:\temp\Projetos\Atv4Csharp\Atv4Csharp\obj\Debug\net6.0\ref\Atv4Csharp.dll
