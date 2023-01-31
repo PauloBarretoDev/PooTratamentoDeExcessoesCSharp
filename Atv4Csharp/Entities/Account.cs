@@ -22,7 +22,7 @@ namespace Atv4Csharp.Entities
 
         public void Deposit(double amount)
         {
-            Balance = amount;
+            Balance += amount;
         }
 
         public void WithDraw(double amount)
